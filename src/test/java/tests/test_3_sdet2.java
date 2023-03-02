@@ -8,3 +8,7 @@ public class test_3_sdet2 {
         // sdet1 adds couple of lines here
     }
 }
+// sdet2 adds a couple of codes in xyz branch
+// sdet2 adds a couple of codes in xyz branch
+// sdet2 adds a couple of codes in xyz branch
+// sdet2 adds a couple of codes in xyz branch

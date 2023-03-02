@@ -7,3 +7,6 @@ public class test_5_sdet2 {
         System.out.println("Sdet2: " +str1 +" " + str2);
     }
 }
+// Some notes are added to testcase by Sdet1
+// Some notes are added to testcase by Sdet1
+// Some notes are added to testcase by Sdet1
